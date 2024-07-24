@@ -556,7 +556,7 @@ body.nav-active { overflow: hidden; }
 
 .header.active {
   padding-block: 20px;
-  background-color: var(--eerie-black-4);
+  background-color: var(--gold-crayola);
   border-color: var(--black-alpha-15);
 }
 
@@ -784,6 +784,7 @@ body.nav-active { overflow: hidden; }
 .hero-btn img {
   margin-inline: auto;
   margin-block-end: 6px;
+  border-radius: 50%;
 }
 
 .hero-btn .span {
